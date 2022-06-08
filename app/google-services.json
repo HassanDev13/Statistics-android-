@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "199375803566",
+    "firebase_url": "https://seince-m3a-hassan-bac.firebaseio.com",
+    "project_id": "seince-m3a-hassan-bac",
+    "storage_bucket": "seince-m3a-hassan-bac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199375803566:android:3db8531a85147d8b74c93f",
+        "android_client_info": {
+          "package_name": "com.app.thestatistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199375803566-5imkgq0fmchhcn7nu27qit3g8q8f9nj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt9AQm-jyTESqYbQvCVNtu2Nfca7UqgI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199375803566-5imkgq0fmchhcn7nu27qit3g8q8f9nj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199375803566:android:0fe8b507d4e4c443",
+        "android_client_info": {
+          "package_name": "com.hassan13zr.Bacm3aHassanSs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199375803566-5imkgq0fmchhcn7nu27qit3g8q8f9nj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt9AQm-jyTESqYbQvCVNtu2Nfca7UqgI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199375803566-5imkgq0fmchhcn7nu27qit3g8q8f9nj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
